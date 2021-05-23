@@ -7,4 +7,4 @@ http
   })
   .listen(8000); //the server object listens on port 8080
 
-console.log('Server running on port 8080');
+console.log('Server running on port 8000');
